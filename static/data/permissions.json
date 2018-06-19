@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1234,
+        "name" : "主页",
+        "path" : "/app/home"
+    },
+    {
+        "id": 324,
+        "name" : "订单",
+        "path" : "/app/order",
+        "children" : [
+            {
+                "id": 324,
+                "name" : "列表",
+                "path" : "/app/order/list"               
+            },
+            {
+                "id": 324,
+                "name" : "详情",
+                "path" : "/app/order/detail"               
+            }
+        ]
+    },
+    {
+        "id": 324,
+        "name" : "订单",
+        "path" : "/app/order",
+        "children" : [
+            {
+                "id": 324,
+                "name" : "列表",
+                "path" : "/app/order/list"               
+            },
+            {
+                "id": 324,
+                "name" : "详情",
+                "path" : "/app/order/detail"               
+            }
+        ]
+    },
+    {
+        "id": 324,
+        "name" : "机器人",
+        "path" : "/app/robot",
+        "children" : [
+            {
+                "id": 324,
+                "name" : "列表",
+                "path" : "/app/robot/list"               
+            },
+            {
+                "id": 324,
+                "name" : "详情",
+                "path" : "/app/robot/detail"               
+            }
+        ]
+    },
+    {
+        "id": 324,
+        "name" : "储物柜",
+        "path" : "/app/locker",
+        "children" : [
+            {
+                "id": 324,
+                "name" : "列表",
+                "path" : "/app/locker/list"               
+            },
+            {
+                "id": 324,
+                "name" : "详情",
+                "path" : "/app/locker/detail"               
+            }
+        ]
+    },
+    {
+        "id": 324,
+        "name" : "快递",
+        "path" : "/app/courier",
+        "children" : [
+            {
+                "id": 324,
+                "name" : "快递公司",
+                "path" : "/app/courier/company"               
+            },
+            {
+                "id": 324,
+                "name" : "快递中心",
+                "path" : "/app/courier/hub"               
+            },
+            {
+                "id": 324,
+                "name" : "快递集散点",
+                "path" : "/app/courier/waypoint"               
+            }
+        ]
+    }
+]

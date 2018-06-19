@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>home/ic_jijian_nor</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home/ic_jijian_nor">
+            <g id="ic_jijian_nor" transform="translate(2.000000, 2.000000)">
+                <rect id="Rectangle-Copy-3" fill="#4AE1E7" x="9" y="42" width="58" height="10"></rect>
+                <path d="M5,26 L0,26 L0,2 L76,2 L76,26 L48,26 C44.4666814,22 41.1333481,20 38,20 C34.8666519,20 31.8666519,22 29,26 L9,26 L9,72 L5,72 L5,26 Z M67,42 L9,42 L9,38 L67,38 L67,26 L71,26 L71,72 L71,76 L5,76 L5,72 L67,72 L67,56 L9,56 L9,52 L67,52 L67,42 Z M4,22 L4,6 L72,6 L72,22 L50,22 C45.8614941,18 41.8614941,16 38,16 C34.1385059,16 30.4718392,18 27,22 L4,22 Z" id="Combined-Shape" fill="#111111"></path>
+            </g>
+        </g>
+    </g>
+</svg>
