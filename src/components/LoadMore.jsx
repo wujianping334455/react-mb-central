@@ -4,9 +4,9 @@ class LoadMore extends Component{
         const {isLoaded} = this.props;
         return(
             <div className="header loadmore">
-                <div>---------------------------------------</div>
+                <div className="border">---------------------------------------</div>
                 <div className="text">{isLoaded?"我也是有底线的":"加载更多"}</div>
-                <div>---------------------------------------</div>
+                <div className="border">---------------------------------------</div>
             </div>
         )
     }

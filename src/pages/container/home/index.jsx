@@ -6,6 +6,9 @@ import List from './children/list';
 import LoadMore from '../../../components/LoadMore';
 import '../../../style/home.less';
 class Home extends Component{
+    state = {
+        isLoaded :true
+    }
     render(){
         return(
             <div className="home-box">
@@ -13,7 +16,7 @@ class Home extends Component{
                 <Search />
                 <Menu />
                 <List />
-                <LoadMore isLoaded={true} />
+                <LoadMore isLoaded={this.state.isLoaded} />
             </div>
         )
     }

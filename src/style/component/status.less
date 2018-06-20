@@ -1,0 +1,53 @@
+.state-box{
+    padding: 0 1.2rem; 
+    height: 1.8rem;
+    line-height: 1.8rem;
+    background-color: #fff;
+    .state{      
+        display: flex;
+        height: .9rem;
+        text-align: center;
+        align-items: center;
+        text-align: center;
+        color: #999999;
+        font-size: 12px;
+        .text{
+            flex: 1;
+        } 
+    }
+    .progress{
+        height: .9rem;
+        line-height: .9rem; 
+        .quan-box{
+            height: .15rem;
+            background-color: #999999;
+            border-radius:.1rem;
+            margin: 0 1rem ;
+            margin-top: .32rem;
+            display: flex;
+            justify-content: space-between;
+            position: relative;
+            .quan{
+                height: .4rem;
+                width: .4rem;
+                border: solid 1px #fff;
+                border-radius:50%;
+                background-color: #999;
+                transform: translateY(-40%);
+            }
+            .error{
+                background-color: red; 
+            }
+            .completed{
+                background-color: aqua;
+            }
+        }
+        .xian{
+            position: absolute;
+            height: .15rem;
+            background-color: aqua;
+            border-radius:.1rem;
+            width: 100%;
+        }
+    }
+}

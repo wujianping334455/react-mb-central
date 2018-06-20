@@ -32,11 +32,11 @@ class MFooter extends Component{
             if(index===itemIndex){
                 if(!item.selected){
                     item.selected = !item.selected;
-                    console.log(index);
                 }
             }else{
                 item.selected = false;
             }
+            return item;
         });
         this.setState({data})
     }
