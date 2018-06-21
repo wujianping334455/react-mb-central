@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>wode/ic_women</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="13 5 27 5 27 23 13 23"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wode/ic_women">
+            <g id="ic_women">
+                <rect id="bg" x="0" y="0" width="40" height="40"></rect>
+                <g id="Rectangle-3-Copy-2">
+                    <use fill="#4AE1E7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#111111" stroke-width="4" d="M15,7 L15,21 L25,21 L25,7 L15,7 Z"></path>
+                </g>
+                <rect id="Rectangle" fill="#111111" x="29" y="7" width="2" height="16"></rect>
+                <rect id="Rectangle-Copy-3" fill="#111111" x="9" y="7" width="2" height="16"></rect>
+                <rect id="Rectangle-Copy-2" fill="#111111" x="29" y="21" width="7" height="2"></rect>
+                <rect id="Rectangle-Copy-5" fill="#111111" x="4" y="21" width="7" height="2"></rect>
+                <rect id="Rectangle-Copy" fill="#111111" x="34" y="23" width="2" height="12"></rect>
+                <rect id="Rectangle-Copy-6" fill="#111111" x="4" y="23" width="2" height="12"></rect>
+                <path d="M10,27 L10,33 L30,33 L30,27 L10,27 Z" id="Rectangle-3-Copy-3" stroke="#111111" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

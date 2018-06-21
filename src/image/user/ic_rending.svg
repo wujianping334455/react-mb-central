@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>wode/ic_rending</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wode/ic_rending">
+            <g id="ic_rending">
+                <rect id="bg" x="0" y="0" width="40" height="40"></rect>
+                <path d="M6,6 L6,27.830305 L20,35.705305 L34,27.830305 L34,6 L6,6 Z" id="Rectangle-3" stroke="#111111" stroke-width="4"></path>
+                <polyline id="Rectangle-3-Copy" stroke="#4AE1E7" stroke-width="2" transform="translate(20.485281, 16.485281) rotate(-315.000000) translate(-20.485281, -16.485281) " points="16.4852814 24.4852814 24.4852814 24.4852814 24.4852814 8.48528137"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

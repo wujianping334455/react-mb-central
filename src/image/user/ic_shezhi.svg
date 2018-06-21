@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>wode/ic_shezhi</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wode/ic_shezhi">
+            <g id="ic_shezhi-copy">
+                <rect id="bg" x="0" y="0" width="40" height="40"></rect>
+                <rect id="Rectangle-2" fill="#111111" x="6" y="4" width="4" height="32"></rect>
+                <rect id="Rectangle-2-Copy" fill="#111111" x="18" y="4" width="4" height="32"></rect>
+                <rect id="Rectangle-2-Copy-2" fill="#111111" x="30" y="4" width="4" height="32"></rect>
+                <circle id="Oval" fill="#4AE1E7" cx="32" cy="27" r="4"></circle>
+                <circle id="Oval-Copy-3" fill="#4AE1E7" cx="20" cy="14" r="4"></circle>
+                <circle id="Oval-Copy-4" fill="#4AE1E7" cx="8" cy="23" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

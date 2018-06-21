@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>wode/ic_qianbao</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26,14 L36,14 L36,26 L26,26 C23.790861,26 22,24.209139 22,22 L22,18 C22,15.790861 23.790861,14 26,14 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wode/ic_qianbao">
+            <g id="ic_qianbao">
+                <rect id="bg" x="0" y="0" width="40" height="40"></rect>
+                <path d="M6,20 L6,34 L34,34 L34,20 L6,20 Z" id="Rectangle-3" stroke="#111111" stroke-width="4"></path>
+                <g id="Rectangle-3-Copy">
+                    <use fill="#4AE1E7" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#111111" stroke-width="3" d="M34.5,24.5 L34.5,15.5 L26,15.5 C24.6192881,15.5 23.5,16.6192881 23.5,18 L23.5,22 C23.5,23.3807119 24.6192881,24.5 26,24.5 L34.5,24.5 Z"></path>
+                </g>
+                <path d="M6,6 L6,34 L34,34 L34,6 L6,6 Z" id="Rectangle-3-Copy-2" stroke="#111111" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
