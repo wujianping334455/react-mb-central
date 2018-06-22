@@ -8,8 +8,8 @@ class Portrait extends Component{
                 <div className="portrait">
                     <img src={portrait} alt="头像信息" />
                     <div className="point">
-                        <div className="time">深圳大学----->红榴斋（李新奇)</div>
-                        <div className="address">订单号：870 966 231 222</div>
+                        <div className="time">李新奇</div>
+                        <div className="address">奇妙世界，探索无限</div>
                     </div>
                 </div>
             </div>

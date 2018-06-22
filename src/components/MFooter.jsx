@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid } from 'antd-mobile';
+import {withRouter} from 'react-router-dom';
 import bt_home_nor from '../image/footer/bt_home_nor.png';
 import bt_dingdan_nor from '../image/footer/bt_dingdan_nor.png';
 import bt_wode_nor from '../image/footer/bt_wode_nor.png';
@@ -12,17 +13,20 @@ class MFooter extends Component{
             {
                 icon:bt_home_nor,
                 press:bt_home_press,
-                selected : false
+                selected : false,
+                path:'/app/home'
             },
             {
                 icon:bt_dingdan_nor,
                 press:bt_dingdan_press,
-                selected : false
+                selected : false,
+                path:'/app/order'
             },
             {
                 icon:bt_wode_nor,
                 press:bt_wode_press,
-                selected : false
+                selected : false,
+                path:'/app/user'
             }
         ]
     }
@@ -32,6 +36,8 @@ class MFooter extends Component{
             if(index===itemIndex){
                 if(!item.selected){
                     item.selected = !item.selected;
+                    // 跳转路由
+                    item.path && this.props.history.push(item.path);
                 }
             }else{
                 item.selected = false;
@@ -55,4 +61,4 @@ class MFooter extends Component{
     }
 }
 
-export default MFooter;
+export default withRouter(MFooter);

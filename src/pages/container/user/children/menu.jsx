@@ -4,7 +4,7 @@ class Menu extends Component{
         const {menuData} = this.props;
         return(
             <div className="menu">
-                <img src={menuData.url} />
+                <img src={menuData.url} alt="头像" />
                 <div className="text">{menuData.text}</div>
             </div>
         )
