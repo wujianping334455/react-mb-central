@@ -7,7 +7,8 @@ import bt_wode_nor from '../image/footer/bt_wode_nor.png';
 import bt_home_press from '../image/footer/bt_home_press.png';
 import bt_dingdan_press from '../image/footer/bt_dingdan_press.png';
 import bt_wode_press from '../image/footer/bt_wode_press.png';
-class MFooter extends Component{
+@withRouter
+export default class MFooter extends Component{
     state = {
         data :[
             {
@@ -60,5 +61,3 @@ class MFooter extends Component{
         )
     }
 }
-
-export default withRouter(MFooter);

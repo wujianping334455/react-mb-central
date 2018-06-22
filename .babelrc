@@ -1,0 +1,9 @@
+{
+    "presets": [
+        "es2015",
+        "stage-1",
+        "react-native-stage-0/decorator-support"
+    ],
+    "plugins": ["transform-decorators-legacy"]
+}
+  
