@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import ComStatus from '../common/status';
 import ComCompany from '../common/company';
 import ComMenu from '../common/menu';
-import LoadMore from '../../../components/LoadMore';
-import '../../../style/order.less';
+import LoadMore from '../../components/LoadMore';
+import '../../style/order.less';
 class Order extends Component{
     state = {
         isLoaded :true

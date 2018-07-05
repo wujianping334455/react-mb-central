@@ -3,9 +3,9 @@ import { HashRouter, Switch, Route, Redirect } from 'react-router-dom';
 import Login from '../pages/login';
 import NotFound from '../pages/notFound';
 import Container from '../pages/container';
-import MyHome from '../pages/container/home';
-import User from '../pages/container/user';
-import Order from '../pages/container/order';
+import MyHome from '../pages/home';
+import User from '../pages/user';
+import Order from '../pages/order';
 // react-router4 不再推荐将所有路由规则放在同一个地方集中式路由，子路由应该由父组件动态配置，组件在哪里匹配就在哪里渲染，更加灵活
 export default class RouteConfig extends Component{    
     render(){

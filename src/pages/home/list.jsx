@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
-import ems from '../../../../image/courier/ems.png';
-import fedex from '../../../../image/courier/fedex.png';
-import noCompany from '../../../../image/courier/noCompany.png';
-import shentong from '../../../../image/courier/shentong.png';
-import shunfeng from '../../../../image/courier/shunfeng.png';
-import tiantian from '../../../../image/courier/tiantian.png';
-import yuantong from '../../../../image/courier/yuantong.png';
-import yunda from '../../../../image/courier/yunda.png';
-import zhaijisong from '../../../../image/courier/zhaijisong.png';
-import zhongtong from '../../../../image/courier/zhongtong.png';
+import ems from '../../image/courier/ems.png';
+import fedex from '../../image/courier/fedex.png';
+import noCompany from '../../image/courier/noCompany.png';
+import shentong from '../../image/courier/shentong.png';
+import shunfeng from '../../image/courier/shunfeng.png';
+import tiantian from '../../image/courier/tiantian.png';
+import yuantong from '../../image/courier/yuantong.png';
+import yunda from '../../image/courier/yunda.png';
+import zhaijisong from '../../image/courier/zhaijisong.png';
+import zhongtong from '../../image/courier/zhongtong.png';
 class List extends Component{
     render(){
         return(

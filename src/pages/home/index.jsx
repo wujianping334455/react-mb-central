@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Swiper from './children/swiper';
-import Search from './children/search';
-import Menu from './children/menu';
-import List from './children/list';
-import LoadMore from '../../../components/LoadMore';
-import '../../../style/home.less';
+import Swiper from './swiper';
+import Search from './search';
+import Menu from './menu';
+import List from './list';
+import LoadMore from '../../components/LoadMore';
+import '../../style/home.less';
 class Home extends Component{
     state = {
         isLoaded :true

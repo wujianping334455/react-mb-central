@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import '../../../../style/user.less';
-import portrait from '../../../../image/user/user-head.png';
+import '../../style/user.less';
+import portrait from '../../image/user/user-head.png';
 class Portrait extends Component{
     render(){
         return(

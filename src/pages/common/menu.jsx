@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../../../../style/component/menu.less';
+import '../../style/component/menu.less';
 class ComMenu extends Component{
     render(){
         return(

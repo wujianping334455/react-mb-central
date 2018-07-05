@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Carousel, WingBlank } from 'antd-mobile';
-import banner from '../../../../image/banner.png';
-import education from '../../../../image/education.jpg';
-import basketball from '../../../../image/basketball.jpg';
+import banner from '../../image/banner.png';
+import education from '../../image/education.jpg';
+import basketball from '../../image/basketball.jpg';
 class Swiper extends Component{
     state = {
         data: [banner,education,basketball],

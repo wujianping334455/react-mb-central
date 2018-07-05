@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import Portrait from './children/portrait';
-import Menu from './children/menu';
-import kuaijian from '../../../image/user/ic_kuaijian.svg';
-import qianbao from '../../../image/user/ic_qianbao.svg';
-import pingjia from '../../../image/user/ic_pingjia.svg';
-import rending from '../../../image/user/ic_rending.svg';
-import shezhi from '../../../image/user/ic_shezhi.svg';
-import women from '../../../image/user/ic_women.svg';
+import Portrait from './portrait';
+import Menu from './menu';
+import kuaijian from '../../image/user/ic_kuaijian.svg';
+import qianbao from '../../image/user/ic_qianbao.svg';
+import pingjia from '../../image/user/ic_pingjia.svg';
+import rending from '../../image/user/ic_rending.svg';
+import shezhi from '../../image/user/ic_shezhi.svg';
+import women from '../../image/user/ic_women.svg';
 
 class User extends Component{
     state = {

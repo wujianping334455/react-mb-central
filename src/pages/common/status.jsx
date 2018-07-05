@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../../../../style/component/status.less';
+import '../../style/component/status.less';
 class ComStatus extends Component{
     render(){
         return(

@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Grid } from 'antd-mobile';
-import icFujin from '../../../../image/ic_fujin.svg';
-import icJijian from '../../../../image/ic_jijian.svg';
-import icSaomiao from '../../../../image/ic_saomiao.svg';
-import icTask from '../../../../image/ic_task.svg';
+import icFujin from '../../image/ic_fujin.svg';
+import icJijian from '../../image/ic_jijian.svg';
+import icSaomiao from '../../image/ic_saomiao.svg';
+import icTask from '../../image/ic_task.svg';
 class Menu extends Component{
     state = {
         data :[

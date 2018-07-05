@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import MFooter from '../../components/MFooter';
-import MHeader from '../../components/MHeader';
+import MFooter from '../components/MFooter';
+import MHeader from '../components/MHeader';
 class Home extends Component{
     render(){
         return(
